@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+.rajdhani {
+    font-family: 'Rajdhani', sans-serif;
+}
+.antonio {
+    font-family: 'Antonio', sans-serif;
+}
