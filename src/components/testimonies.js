@@ -1,7 +1,7 @@
 import * as React from "react"
 
 const Testimonies = () => (
-    <section id="testimoni" className="pt-10">
+    <section id="testimoni" className="py-10">
         <p className="text-2xl text-center rajdhani">Kami mempunyai Testimoni Pertama kami untuk Mooosik</p>
         <br></br>
         <div className="mx-auto bg-black w-96 text-3xl text-white rounded-t-2xl pt-5">
