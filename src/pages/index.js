@@ -6,6 +6,7 @@ import Testimonies from "../components/testimonies"
 import Promos from "../components/promos"
 import ButtonTop from "../components/button"
 import Footers from "../components/footers"
+import FootersCopyright from "../components/down_footers"
 
 
 
