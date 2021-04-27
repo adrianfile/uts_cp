@@ -21,6 +21,7 @@ const IndexPage = () => (
     <Promos />
     <Testimonies />
     <Footers />
+    <FootersCopyright />
   </>
 )
 
